@@ -1,0 +1,43 @@
+#scrollToTop{
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  width: 60px;
+  border-radius: 10%;
+  display: none;
+  font-style: bold;
+  font-family: 'open sans';
+  font-size: 19px;
+  text-decoration: bold;
+  height: 30px;
+  width: 30px;
+  opacity: 0.8;
+}
+
+nav {
+  position: fixed;
+  opacity: 0.9;
+  top:0;
+  right: 0;
+  width: 100%;
+}
+
+h2 {
+
+  font-family: 'Special Elite', cursive;
+  /*
+  font-family: 'Arvo', serif;
+  font-family: 'Cinzel', serif;
+  font-family: 'Playfair Display', serif;
+  */
+}
+
+p {
+  font-family: 'Gentium Book Basic', serif;
+}
+
+h5 {
+  font-family: 'Playfair Display SC', serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
